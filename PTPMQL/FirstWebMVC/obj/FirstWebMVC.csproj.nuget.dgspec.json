@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\NetCore\\FirstWebMVC\\FirstWebMVC.csproj": {}
+    "/Users/nguyenthivananh/Desktop/PTPMQL_NguyenDinhTrung/PTPMQL/FirstWebMVC/FirstWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\NetCore\\FirstWebMVC\\FirstWebMVC.csproj": {
+    "/Users/nguyenthivananh/Desktop/PTPMQL_NguyenDinhTrung/PTPMQL/FirstWebMVC/FirstWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\NetCore\\FirstWebMVC\\FirstWebMVC.csproj",
+        "projectUniqueName": "/Users/nguyenthivananh/Desktop/PTPMQL_NguyenDinhTrung/PTPMQL/FirstWebMVC/FirstWebMVC.csproj",
         "projectName": "FirstWebMVC",
-        "projectPath": "C:\\Users\\user\\Desktop\\NetCore\\FirstWebMVC\\FirstWebMVC.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\NetCore\\FirstWebMVC\\obj\\",
+        "projectPath": "/Users/nguyenthivananh/Desktop/PTPMQL_NguyenDinhTrung/PTPMQL/FirstWebMVC/FirstWebMVC.csproj",
+        "packagesPath": "/Users/nguyenthivananh/.nuget/packages/",
+        "outputPath": "/Users/nguyenthivananh/Desktop/PTPMQL_NguyenDinhTrung/PTPMQL/FirstWebMVC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/nguyenthivananh/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
