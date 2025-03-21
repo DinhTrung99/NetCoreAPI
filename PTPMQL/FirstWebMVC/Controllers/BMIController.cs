@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using DemoMVC.Models;
 
-namespace DemoMVC.Controllers
+namespace DemoMVCe.Controllers
 {
     public class BMIController : Controller
     {

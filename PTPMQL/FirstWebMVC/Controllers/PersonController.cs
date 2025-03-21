@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using MvcMovie.Data;
 using MvcMovie.Models;
 
-namespace DemoMVC.Controllers
+namespace MvcMovie.Controllers
 {
 
     public class PersonController(ApplicationDbContext context) : Controller
@@ -116,6 +116,3 @@ namespace DemoMVC.Controllers
         }
     }
 }
-    
-
-    
